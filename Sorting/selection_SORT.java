@@ -9,8 +9,8 @@ public class selection_SORT {
     public static void main(String[] args) {
         int arr[] = {5,8,36,7,78,5,1,3};
 
+        //time complexity = O(n^2)
         // Selection Sort
-
         for (int i = 0; i<arr.length-1;i++){
             int min=i;
             for (int j=i+1;j<arr.length;j++){
