@@ -26,4 +26,4 @@ public class selection_SORT {
     }
 }
 
-// output :---  1 3 5 5 7 8 36 78
+// output :---   1 3 5 5 7 8 36 78
